@@ -2,7 +2,7 @@
 
 ## 2025
 ### 김포시
-- [김포시 한눈에김포 메인 레이아웃](https://ja-ol.github.io/project/2025_gimpo/site/mayor_2025/glance_gimpo.html)
+- [김포시 한눈에 김포 메인 레이아웃](https://ja-ol.github.io/project/2025_gimpo/site/mayor_2025/glance_gimpo.html)
 
 <br/>
 
