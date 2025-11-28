@@ -3,7 +3,10 @@
 ## 2025
 ### 김포시
 - [김포시 한눈에 김포 메인 레이아웃](https://ja-ol.github.io/project/2025_gimpo/site/mayor_2025/glance_gimpo.html)
-
+### 강릉시
+- [강릉시 메인 레이아웃](https://ja-ol.github.io/project/2025_gangneung/site/www_2025/main.html)
+- [강릉시 서브 레이아웃](https://ja-ol.github.io/project/2025_gangneung/site/www_2025/sub.html)
+- [강릉시 통합검색 레이아웃](https://ja-ol.github.io/project/2025_gangneung/search_2025/search.html)
 <br/>
 
 ## 2024
@@ -54,7 +57,7 @@
 ### 동해시
 - [동해시 평생학습관 메인 레이아웃](https://ja-ol.github.io/project/2022_donghae/site/lifelong/main.html)
 - [동해시 자원봉사센터 메인 레이아웃](https://ja-ol.github.io/project/2022_donghae/site/nanum/main.html)
-- [동해시 통합일정](https://ja-ol.github.io/project/2022_donghae/site/map/map.html)
+- [동해시 통합일정 레이아웃](https://ja-ol.github.io/project/2022_donghae/site/map/map.html)
 ### 포천시
 - [포천시 미디어센터 서브 레이아웃](https://ja-ol.github.io/project/2022_pocheon/site/media/sub.html)
 ### 수암골메타버스
