@@ -9,6 +9,8 @@
 - [강릉시 통합검색 레이아웃](https://ja-ol.github.io/project/2025_gangneung/search_2025/search.html)
 ### 대전시
 - [대전시 동구 스마트 통합예약 메인 레이아웃](https://ja-ol.github.io/project/2025_daejeon/site/www/main.html)
+### 은평구
+- [은평구청 메인 레이아웃](https://ja-ol.github.io/project/2025_eunpyeong/site/www_2025/main.html)
 <br/>
 
 ## 2024
