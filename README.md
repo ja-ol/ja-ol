@@ -3,6 +3,8 @@
 ## 2025
 ### 김포시
 - [김포시 한눈에 김포 메인 레이아웃](https://ja-ol.github.io/project/2025_gimpo/site/mayor_2025/glance_gimpo.html)
+- [김포시 메인 레잉아웃](https://ja-ol.github.io/project/2025_gimpo/site/portal2022/main.html)
+- [김포시 열린시장실 메인 레이아웃](https://ja-ol.github.io/project/2025_gimpo/site/mayor_2025/main.html)
 ### 강릉시
 - [강릉시 메인 레이아웃](https://ja-ol.github.io/project/2025_gangneung/site/www_2025/main.html)
 - [강릉시 서브 레이아웃](https://ja-ol.github.io/project/2025_gangneung/site/www_2025/sub.html)
